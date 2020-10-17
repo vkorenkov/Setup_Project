@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp3", "WindowsFormsApp3\WindowsFormsApp3.csproj", "{871453CF-2AFB-41C1-B80C-8A13322D2579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Winpe|Any CPU = Winpe|Any CPU
+		Winpe|x64 = Winpe|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{871453CF-2AFB-41C1-B80C-8A13322D2579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871453CF-2AFB-41C1-B80C-8A13322D2579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871453CF-2AFB-41C1-B80C-8A13322D2579}.Debug|x64.ActiveCfg = Debug|x64
+		{871453CF-2AFB-41C1-B80C-8A13322D2579}.Debug|x64.Build.0 = Debug|x64
+		{871453CF-2AFB-41C1-B80C-8A13322D2579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871453CF-2AFB-41C1-B80C-8A13322D2579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871453CF-2AFB-41C1-B80C-8A13322D2579}.Release|x64.ActiveCfg = Release|x64
+		{871453CF-2AFB-41C1-B80C-8A13322D2579}.Release|x64.Build.0 = Release|x64
+		{871453CF-2AFB-41C1-B80C-8A13322D2579}.Winpe|Any CPU.ActiveCfg = Winpe|Any CPU
+		{871453CF-2AFB-41C1-B80C-8A13322D2579}.Winpe|Any CPU.Build.0 = Winpe|Any CPU
+		{871453CF-2AFB-41C1-B80C-8A13322D2579}.Winpe|x64.ActiveCfg = Winpe|x64
+		{871453CF-2AFB-41C1-B80C-8A13322D2579}.Winpe|x64.Build.0 = Winpe|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4E0B531-C9DD-447E-BCBC-0434AA29B037}
+	EndGlobalSection
+EndGlobal
